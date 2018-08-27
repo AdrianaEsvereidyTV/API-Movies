@@ -1,0 +1,14 @@
+.container {
+    text-align: center;
+    margin: 0 auto;
+    font-weight: 300; 
+}
+
+.container h2 {
+    font-weight: normal;
+    color: rgb(19, 18, 18);
+    
+}
+.button {
+    text-align: center;
+}
