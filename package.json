@@ -1,0 +1,26 @@
+{
+  "name": "api_movies",
+  "version": "1.0.0",
+  "description": "API MOVIES",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AdrianaEsvereidyTV/API-Movies.git"
+  },
+  "keywords": [
+    "Api",
+    "movie",
+    "consulting",
+    "my",
+    "blog"
+  ],
+  "author": "Adriana E Torres",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AdrianaEsvereidyTV/API-Movies/issues"
+  },
+  "homepage": "https://github.com/AdrianaEsvereidyTV/API-Movies#readme"
+}
